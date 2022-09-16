@@ -178,9 +178,10 @@ ul {
 .page_sub {
   color: gray;
   padding-left: 20px;
+  padding-bottom: 3vh;
   margin: 20;
   min-height: 6vh;
-  font-size: 20px;
+  font-size: 25px;
 }
 /*
 .wrapper {
@@ -230,13 +231,13 @@ ul {
 }
 
 .bold_body {
-  font-size: 20px;
+  font-size: 23px;
 }
 
 .body_text {
   text-align: left;
   padding-left: 20px;
-  padding-right: 18vh;
+  padding-right: 10vh;
   font-size: 18px;
   color: var(--text-color);
 }
@@ -245,7 +246,7 @@ ul {
   margin-top: 20px;
   text-align: left;
   padding-left: 20px;
-  padding-right: 18vh;
+  padding-right: 10vh;
   font-size: 18px;
   color: var(--text-color);
 }
@@ -254,7 +255,7 @@ ul {
   margin-top: 20px;
   text-align: left;
   padding-left: 20px;
-  padding-right: 18vh;
+  padding-right: 10vh;
   font-size: 18px;
   color: var(--text-color);
 }
