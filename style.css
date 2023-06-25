@@ -20,6 +20,13 @@ body {
   font-family: Montserrat;
 }
 
+section {
+  display:grid;
+  place-items: center;
+  align-content: center;
+  min-height: 50vh;
+}
+
 a {
   text-decoration: none;
 }
@@ -235,7 +242,7 @@ ul {
 }
 
 .body_text {
-  text-align: left;
+  text-align: center;
   padding-left: 20px;
   padding-right: 10vh;
   font-size: 18px;
